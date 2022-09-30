@@ -19,9 +19,9 @@
   </p>
     <h2 align="center">Our team</h2>
     <p>sstohnij - Team Leader, Game Core </p>
-    <p>ayefimenko -  level design and map rendering</p>
-    <p>ozelenskyj - gameplay</p>
-    <p>dstarosvit - game menu</p>
+    <p>ayefimenko -  Level design and map rendering</p>
+    <p>ozelenskyj - Gameplay</p>
+    <p>dstarosvit - Game menu</p>
 
 </body>
 <footer>
