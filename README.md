@@ -22,7 +22,16 @@
     <p>ayefimenko -  Level design and map rendering</p>
     <p>ozelenskyj - Gameplay</p>
     <p>dstarosvit - Game menu</p>
-
+    <br>
+    <p>Screenshots:</p>
+    <img src="https://github.com/Serg192/Wake-it-up/assets/66135825/74202650-4ee8-4515-9a03-2fe224df9d04">
+    <br><br>
+    <img src="https://github.com/Serg192/Wake-it-up/assets/66135825/f428fbf8-2552-44e0-9c29-31ef392bc047">
+    <br><br>
+    <img src="https://github.com/Serg192/Wake-it-up/assets/66135825/725b8549-dce3-4e5e-abe2-47320792bd5d">
+    <br><br>
+    <img src="https://github.com/Serg192/Wake-it-up/assets/66135825/0f6210e4-0d65-4601-ba05-3c2a5165a04c">
+    
 </body>
 <footer>
 </footer>
